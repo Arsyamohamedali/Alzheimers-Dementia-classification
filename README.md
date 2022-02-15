@@ -1,3 +1,4 @@
 # Alzheimers-Dementia-classification
 ML ALGORITHMS IMPLEMENTATION ON OASIS LONGITUDINAL DATASET
-\n The details regarding the project is elaborated in the pdf file attached in this repository.
+
+The details regarding the project is elaborated in the pdf file attached in this repository.
